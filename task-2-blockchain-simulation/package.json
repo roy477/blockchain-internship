@@ -1,0 +1,20 @@
+{
+  "name": "task-2-blockchain-simulation",
+  "version": "1.0.0",
+  "description": "Cryptographic Block Hashing and Tamper Detection Simulation using SHA-256 and Node.js",
+  "main": "blockchain.js",
+  "scripts": {
+    "start": "node blockchain.js",
+    "test": "node blockchain.js"
+  },
+  "keywords": [
+    "blockchain",
+    "sha256",
+    "immutability",
+    "hash-chain",
+    "cryptography",
+    "simulation"
+  ],
+  "author": "Internship Developer",
+  "license": "MIT"
+}
